@@ -2,17 +2,6 @@
 
 This repository contains a simple argument parser implementation in C. The parser supports parsing command-line options and positional arguments, providing a flexible framework for handling various types of inputs. I'm making this mainly to use for 42 Mastery projects where a lot of projects require parsing arguments.
 
-## Features
-
-- **Option Types**:
-  - Flags (e.g., `-v`, `--verbose`)
-  - Integer options (e.g., `-c 10`, `--count 10`)
-  - String options (e.g., `-n John`, `--name John`)
-- **Positional Arguments**:
-  - Handles additional arguments not associated with options.
-- **Usage Display**:
-  - Displays all supported options.
-
 ## Getting Started
 
 ### Prerequisites
